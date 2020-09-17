@@ -1,48 +1,36 @@
 {
-  "_from": "discommands.js",
-  "_id": "discommands.js@1.0.3",
-  "_inBundle": false,
-  "_integrity": "sha512-HlJs8xE0q659+J9lv5lPAr340NfPL4b3PxFxXYKGX3JaqZZcR4PNJUN1NcRCaU98BrSRmquV7SkcS2YbPB/3fw==",
-  "_location": "/discommands.js",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "discommands.js",
-    "name": "discommands.js",
-    "escapedName": "discommands.js",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/discommands.js/-/discommands.js-1.0.3.tgz",
-  "_shasum": "d4f5e5d6a896491c95c8f79080bb9670c0a99fa2",
-  "_spec": "discommands.js",
-  "_where": "/home/dovias/Desktop/manoKlasė",
-  "author": {
-    "name": "Dovias"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "Lightweight object oriented command handler for discord.js library",
-  "keywords": [
-    "dcmd.js",
-    "djs-cmd",
-    "djs-commands",
-    "discordjs-commands",
-    "discordjs-cmd",
-    "discord.js-commands",
-    "discord-commands"
-  ],
-  "license": "MIT",
-  "main": "index.js",
   "name": "discommands.js",
+  "version": "1.0.3",
+  "description": "Lightweight object oriented command handler for discord.js library",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.3"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dovias/discommands.js.git"
+  },
+  "keywords": [
+    "discord.js",
+    "dscmd.js",
+    "dscmds",
+    "dscmds.js",
+    "discord-commands",
+    "discord",
+    "commands",
+    "discord",
+    "discordapp",
+    "discord.com",
+    "discord-bot",
+    "discord",
+    "bot",
+    "discordjs-cmd",
+    "discordjs-commands"
+  ],
+  "author": "Dovias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dovias/discommands.js/issues"
+  },
+  "homepage": "https://github.com/Dovias/discommands.js#readme"
 }
