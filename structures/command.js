@@ -1,4 +1,3 @@
-const checkType = require("../util/types.js");
 "use strict";
 
 const types = require("../util/types");
