@@ -1,3 +1,6 @@
+# Abandoned! ⛔
+There are way better solutions than this nowadays (even Discord by that time introduced some API's to handle bot commands). Do not use this in production!
+
 # discommands.js
 discommands.js is an object oriented, lightweight command handler for [discord.js](https://www.npmjs.com/package/discord.js) library.
 
